@@ -1,0 +1,23 @@
+name: idrisi_app
+description: An interactive explorer for Al-Idrisi medieval world map and seven climes.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/cities.json
+    - assets/data/climes.json
+    - assets/maps/idrisi_map.jpg
