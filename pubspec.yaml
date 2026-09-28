@@ -20,4 +20,4 @@ flutter:
   assets:
     - assets/data/cities.json
     - assets/data/climes.json
-    - assets/maps/idrisi_map.jpg
+    - assets/maps/idrisi_map.JPG
