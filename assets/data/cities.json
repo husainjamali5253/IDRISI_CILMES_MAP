@@ -8,8 +8,8 @@
     "idrisiHint": "Navigate to Clime 1, Section 3. Look inland south of the Mediterranean coast of Tripoli into the Fezzan desert corridor.",
     "modernLat": 26.5333,
     "modernLng": 13.0667,
-    "px": 0.077836,
-    "py": 0.035459
+    "px": null,
+    "py": null
   },
   {
     "id": "habasha",
@@ -20,8 +20,8 @@
     "idrisiHint": "Located in Clime 1, Sections 4 and 5. Find Bilād al-Ḥabasha positioned south (higher on the sheet) of Nubia and the Beja lands.",
     "modernLat": 14.1167,
     "modernLng": 38.7167,
-    "px": 0.054704,
-    "py": 0.019516
+    "px": null,
+    "py": null
   },
   {
     "id": "dongola",
@@ -32,8 +32,8 @@
     "idrisiHint": "Located in Clime 1, Section 4. Trace the Nile River from the top downwards; Dunqula is prominently inscribed on the major bend of the river.",
     "modernLat": 18.2167,
     "modernLng": 30.7333,
-    "px": 0.060831,
-    "py": 0.016382
+    "px": null,
+    "py": null
   },
   {
     "id": "kosha",
@@ -44,8 +44,8 @@
     "idrisiHint": "Located in Clime 1, Section 4. Positioned on the Nile bank north (downward) from Dongola toward the Egyptian border, labeled as Kūshah.",
     "modernLat": 20.75,
     "modernLng": 30.55,
-    "px": 0.055335,
-    "py": 0.031128
+    "px": null,
+    "py": null
   },
   {
     "id": "chaul",
@@ -56,8 +56,8 @@
     "idrisiHint": "Found in Clime 1, Section 8. Look along the western coastal strip of India south of the Gulf of Cambay and the Indus mouth.",
     "modernLat": 18.55,
     "modernLng": 72.9167,
-    "px": 0.024477,
-    "py": 0.024815
+    "px": null,
+    "py": null
   },
   {
     "id": "al_mayd",
@@ -68,8 +68,8 @@
     "idrisiHint": "Located in Clime 1 & 2, Section 8. Look along coastal pastures west and south of the Indus River between Tīz in Makran and Daybul/Mansura in Sindh.",
     "modernLat": 24.75,
     "modernLng": 67.5,
-    "px": 0.034117,
-    "py": 0.031312
+    "px": null,
+    "py": null
   },
   {
     "id": "uman_dhofar",
@@ -80,8 +80,8 @@
     "idrisiHint": "Located in Clime 1, Sections 6 and 7. Find the southern/eastern protrusion of the Arabian Peninsula bordering the Sea of Oman.",
     "modernLat": 17,
     "modernLng": 54.0833,
-    "px": 0.03887,
-    "py": 0.032821
+    "px": null,
+    "py": null
   },
   {
     "id": "ghogha",
@@ -92,8 +92,8 @@
     "idrisiHint": "Located along the Gulf of Khambhat coast in Western India.",
     "modernLat": 21.6833,
     "modernLng": 72.2667,
-    "px": 0.024612,
-    "py": 0.026013
+    "px": null,
+    "py": null
   },
   {
     "id": "gwalior",
@@ -104,8 +104,8 @@
     "idrisiHint": "Situated along central Indian mountain ridge systems in Clime 2, Section 4–5.",
     "modernLat": 26.2167,
     "modernLng": 78.1667,
-    "px": 0.024049,
-    "py": 0.02569
+    "px": null,
+    "py": null
   },
   {
     "id": "al_ghamra",

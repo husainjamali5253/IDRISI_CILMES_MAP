@@ -1,11 +1,11 @@
 {
-    "name": "idrisi_climes_map",
-    "short_name": "idrisi_climes_map",
+    "name": "Al-Idrisi Map Explorer",
+    "short_name": "Idrisi Map",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Explore Al-Idrisi's historical map and city records.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
