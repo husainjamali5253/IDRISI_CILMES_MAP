@@ -2,6 +2,10 @@
 
 A Flutter Web app for exploring historical map images, browsing 60 city records, and placing city pins. This repository targets browsers only.
 
+## Live site
+
+Once GitHub Pages is enabled with **GitHub Actions** as its source, each push to `main` verifies and publishes the app at [husainjamali5253.github.io/IDRISI_CILMES_MAP/](https://husainjamali5253.github.io/IDRISI_CILMES_MAP/). The Pages settings are under **Settings → Pages → Build and deployment → Source**. Pull requests run the checks and build without publishing.
+
 ## Run locally
 
 Install Flutter with web support and a supported browser. Add Flutter's `bin` directory to your PATH, then open a terminal in this repository:
@@ -21,7 +25,7 @@ flutter test
 flutter build web --release
 ```
 
-The web release output is in `build/web`. The repository ignores build output; the CI workflow builds and uploads a web bundle. To preview a release build locally, run `python -m http.server 8080 --bind 127.0.0.1 --directory build/web` from the project directory.
+The web release output is in `build/web`. The repository ignores build output; the CI workflow builds and deploys it to GitHub Pages. To preview a local release build, run `python -m http.server 8080 --bind 127.0.0.1 --directory build/web` from the project directory.
 
 ## Data and saved pins
 
